@@ -25,7 +25,6 @@ class FirstViewController: UIViewController, MKMapViewDelegate, CLLocationManage
         manager.requestWhenInUseAuthorization()
         manager.startUpdatingLocation()
         
-        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
